@@ -10,11 +10,36 @@ The problem we will consider is to assign the tasks to the machines so as to min
 
 
 
-## Brief descriptions of algorithms
 
-* **LPT** Hat tip to anyone whose code was used
-* etc
+
+## Brief descriptions 
+
+
+### Algorithms
+
+* **LPT** Largest-processing-time-first sequencing. A sequencing rule in scheduling theory that prioritizes jobs (or tasks) to be scheduled according to an order of their non-increasing processing times.
+
+* **Juxtaposed**  By employing other scheduling algorithms, this one aims to find the best partition of machines to allocate a list of tasks of two types.
+
+* **Greedy Cluster**  analyses the compatibility of different tasks, and cluster the tasks which are interfered the least when they are put on the same machine. 
+
+* **PTAS**  Polynomial time approximation scheme, which tries to schedule the tasks in the most optimal way whose time complexity is polynomial instead of exponential.
+
+_Note: There are other heuristic algorithmes that we developped in the report of the project._
+
+
+### Others
+
+* **tkinter** tkinter is used in this project to generate the graphical interface which shows the allocation clearly and efficiently.
+
+* **Matplotlib** By controling the amount of tasks and machines or the coefficient of compatibility, it compares the validity, efficiency and complexity of different algorithms.
+
+
+
+
 
 ## Contributors
 
 Félicité LORDON, Shuting ZHANG and David SARMIENTO
+
+
