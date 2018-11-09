@@ -13,6 +13,8 @@ The problem we will consider is to assign the tasks to the machines so as to min
 
 
 ## Brief descriptions 
+_Note: Project's report contains complete information._
+
 
 
 ### Algorithms
@@ -25,7 +27,6 @@ The problem we will consider is to assign the tasks to the machines so as to min
 
 * **PTAS**  Polynomial time approximation scheme, which tries to schedule the tasks in the most optimal way whose time complexity is polynomial instead of exponential.
 
-_Note: There are other heuristic algorithmes that we developped in the report of the project._
 
 
 ### Others
